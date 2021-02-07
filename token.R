@@ -2,8 +2,8 @@
 library(rtweet)
 
 ## store api keys
-api_key <- "MaITw49VeVc9Ig1Y0Dnubhf3u"
-api_secret_key <- "v4Rrw0IY1svp2eGYJPdRkkQGTlMAv4oP6ubsCeZmV0NGsGPK9M"
+api_key <- "meep"
+api_secret_key <- "meep"
 
 ## authenticate via web browser
 token <- create_token(
